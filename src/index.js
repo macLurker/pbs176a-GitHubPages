@@ -24,7 +24,7 @@ import "@fontsource/architects-daughter"
 // a jQuery document ready handler
 $(()=>{
     // update the greeting to show jQuery ran
-    $('#world-modifier').text('Automated Webpack');
+    $('#world-modifier').text('Automated WebPack');
 
     // build and add an alert with the loaded time
     const now = DateTime.now();
